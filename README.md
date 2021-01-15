@@ -1,6 +1,6 @@
 <div style="width:300px; text-align:right;">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=owenrumney&show_icons=true&bg_color=ffffff&hide_title=true&count_private=true&theme=radical" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenrumney&hide=vim%20script,html,java,css,javascript,jupyter%20notebook&langs_count=10&hide_title=true&layout=compact&theme=radical" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=owenrumney&show_icons=true&hide_title=true&count_private=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=owenrumney&hide=vim%20script,html,java,css,javascript,jupyter%20notebook&langs_count=10&hide_title=true&layout=compact&theme=tokyonight" />
 </div>
 
 ### Hi There :wave:
