@@ -7,6 +7,7 @@
 Currently working on;
 
 - form3 stuff
+- [squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets
 - [go-github-pr-commenter](https://github.com/owenrumney/go-github-pr-commenter) - Library for easily automating PR Comments
 - [tfsec](https://github.com/tfsec/tfsec) - Static analysis for you Terraform, make sure it's not got gaping security issues
   - [tfsec docs](https://tfsec.dev)
