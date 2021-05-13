@@ -6,12 +6,13 @@
 ### Hi There :wave:
 Currently working on;
 
-- form3 stuff
-- [squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets
-- [go-github-pr-commenter](https://github.com/owenrumney/go-github-pr-commenter) - Library for easily automating PR Comments
 - [tfsec](https://github.com/tfsec/tfsec) - Static analysis for you Terraform, make sure it's not got gaping security issues
   - [tfsec docs](https://tfsec.dev)
   - [tfsec github actions](https://github.com/tfsec/tfsec-pr-commenter-action) - Run tfsec against your PR code
+  - [tfsec vscode extension](https://github.com/tfsec/vscode-tfsec) - Run tfsec direct from your IDE
+
+- [squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets
+- [go-github-pr-commenter](https://github.com/owenrumney/go-github-pr-commenter) - Library for easily automating PR Comments
 - [awsdiagrams.io](https://awsdiagrams.io) - Quick, free AWS Diagrams, uses [jgraph/mxgraph](http://github.com/jgraph/mxgraph) under the hood
 - [aws glossary](https://aws.servicelist.cloud) - An always up to date glossary of AWS Services
 - [azure glossary](https://azure.servicelist.cloud) - An always up to date glossary of Azure Services
