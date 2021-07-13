@@ -4,8 +4,8 @@
 <p align="center"><a><img align="center" src="https://github-readme-stats.vercel.app/api?username=owenrumney&show_icons=true&hide_title=true&count_private=true" /></a></p>
 
  <p align="center">
-   <span align="center"><a href="https://github.com/tfsec/tfsec" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tfsec&repo=tfsec" /></a></span>
-   <span align="center"><a href="https://github.com/tfsec/vscode-tfsec" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tfsec&repo=vscode-tfsec" /></a></span>
+   <span align="center"><a href="https://github.com/aquasecurity/tfsec" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquasecurity&repo=tfsec" /></a></span>
+   <span align="center"><a href="https://github.com/aquasecurity/vscode-tfsec" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=aquasecurity&repo=vscode-tfsec" /></a></span>
   </p>
 
   <p align="center">
