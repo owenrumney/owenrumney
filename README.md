@@ -14,7 +14,7 @@
   </p>
  
    <p align="center">
-  <span align="center"><a href="https://github.com/owenrumney/go-searif" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=owenrumney&repo=go-sarif" /></a></span>
+  <span align="center"><a href="https://github.com/owenrumney/go-sarif" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=owenrumney&repo=go-sarif" /></a></span>
   </p>
  
   <p align="center">
