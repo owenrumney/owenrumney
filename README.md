@@ -7,7 +7,7 @@
 
 ### Skills
 
-<img src="https://github-readme-stats.vercel.app/api?username=owenrumney&show_icons=true&theme=transparent" style="float:right">
+<img src="https://github-readme-stats.vercel.app/api?username=owenrumney&show_icons=true&theme=transparent" style="float:right;">
 
 ![Go](https://img.shields.io/badge/-Go-666?&logo=go)
 ![Python](https://img.shields.io/badge/-Python-666?&logo=python)
